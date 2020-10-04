@@ -1,0 +1,1 @@
+/home/kajiri/ghq/github.com/kajirikajiri/rust-js-wasm/hello-wasm/target/wasm32-unknown-unknown/release/hello_wasm.wasm: /home/kajiri/ghq/github.com/kajirikajiri/rust-js-wasm/hello-wasm/src/lib.rs build.rs
